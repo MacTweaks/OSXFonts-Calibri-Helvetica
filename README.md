@@ -30,3 +30,5 @@ unknown source. lost the bookmark...
 2. Then from /System/Library/Fonts you can replace LucidaGrande.ttc without it being automatically replaced
 
 3. Replace the deleted font in /System/Library/.../ProtectedFonts with the custom font
+
+4. Log out to see changes
