@@ -25,6 +25,8 @@ unknown source. lost the bookmark...
 
 *custom fonts must use the same format and file name as the default font*
 
-1. in /System/Library/ search for a folder called ProtectedFonts and delete the default font which should be LucidaGrande.ttc 
+1. In /System/Library/ search for a folder called ProtectedFonts and delete the default font which should be LucidaGrande.ttc
 
-2. then from /System/Library/Fonts you can replace LucidaGrande.ttc without it being automatically replaced
+2. Then from /System/Library/Fonts you can replace LucidaGrande.ttc without it being automatically replaced
+
+3. Replace the cusotm font in /System/Library/.../ProtectedFonts
