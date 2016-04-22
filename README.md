@@ -23,7 +23,7 @@ unknown source. lost the bookmark...
 
 **10.7-10.9**
 
-*custom fonts must use the same format and file name*
+*custom fonts must use the same format and file name as the default font*
 
 1. in /System/Library/ search for a folder called ProtectedFonts and delete the default font which should be LucidaGrande.ttc 
 
