@@ -13,5 +13,5 @@ http://hossmd.tumblr.com/downloads
 Changefont
 https://changefont.neocities.org/
 
-••Fonts Snow Leopard••
+**Fonts Snow Leopard**
 unknown source. lost the bookmark...
