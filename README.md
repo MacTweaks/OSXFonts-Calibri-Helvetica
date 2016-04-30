@@ -8,6 +8,9 @@ Fonts for OS X hosted by MacTweaks
 
 http://www.angelfire.com/pr/pgpf/if.html
 
+**invisible enhanced**
+a modififed version edited with font forge to include some more characters
+
 **tumblr**
 
 http://hossmd.tumblr.com/downloads
