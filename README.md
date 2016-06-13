@@ -1,6 +1,6 @@
-#### A Collection of Fonts for Mac OS X Hosted by [MacTweaks](https://www.mactweaks.net)
+#### A Collection of Fonts for Mac OS X 10.7-10.9 Hosted by [MacTweaks](https://www.mactweaks.net)
 
-**10.7-10.9**
+**Instructions**
 
 *Custom fonts must use the same format and file name as the default font*
 
@@ -12,6 +12,8 @@
 
 4. Log out to see changes
 
+---
+
 **Developer**
 
 http://hossmd.tumblr.com/downloads
@@ -21,6 +23,8 @@ http://www.angelfire.com/pr/pgpf/if.html
 https://changefont.neocities.org/
 
 Fonts Snow Leopard N/A
+
+---
 
 **Invisible**
 
