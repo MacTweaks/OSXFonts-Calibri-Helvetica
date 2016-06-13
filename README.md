@@ -9,11 +9,13 @@ Fonts for OS X hosted by MacTweaks
 Source
 http://www.angelfire.com/pr/pgpf/if.html
 
-Invisible
+* Invisible
 
 **invisible enhanced**
 
 a modififed version edited with font forge to include some more characters
+
+* Invisible Enhanced
 
 **tumblr**
 
