@@ -14,7 +14,7 @@
 
 4. Log out to see changes
 
----
+--
 
 **Developer**
 
@@ -26,7 +26,7 @@ https://changefont.neocities.org/
 
 Fonts Snow Leopard N/A
 
----
+--
 
 **Invisible**
 
