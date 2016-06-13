@@ -30,8 +30,6 @@ Fonts Snow Leopard N/A
 
 * Invisible Enhanced
 
-*a modififed version edited with font forge to include some more characters*
-
 **Tumblr**
 
 * Aurulent
