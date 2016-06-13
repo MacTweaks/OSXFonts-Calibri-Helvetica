@@ -2,7 +2,7 @@
 
 **10.7-10.9**
 
-*custom fonts must use the same format and file name as the default font*
+*Custom fonts must use the same format and file name as the default font*
 
 1. In /System/Library/ search for a folder called ProtectedFonts and delete the default font which should be LucidaGrande.ttc
 
@@ -26,7 +26,7 @@ Fonts Snow Leopard N/A
 
 * Invisible
 
-**Invisible enhanced**
+**Invisible Enhanced**
 
 * Invisible Enhanced
 
