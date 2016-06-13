@@ -12,26 +12,27 @@
 
 4. Log out to see changes
 
+**Developer**
+http://hossmd.tumblr.com/downloads
+
+http://www.angelfire.com/pr/pgpf/if.html
+
+https://changefont.neocities.org/
+
 
 **Invisible**
-
-Source
-http://www.angelfire.com/pr/pgpf/if.html
 
 * Invisible
 
 **Invisible enhanced**
 
-a modififed version edited with font forge to include some more characters
-
 * Invisible Enhanced
+
+*a modififed version edited with font forge to include some more characters*
 
 **Tumblr**
 
-Source
-http://hossmd.tumblr.com/downloads
-
-Aurulent
+* Aurulent
 * biko
 * Brandon Grotesque
 * Calibri
@@ -47,17 +48,11 @@ Aurulent
 
 **Changefont**
 
-Source 
-https://changefont.neocities.org/
-
 * Proxima Nova
 * HP Prelude
 * Helvetica Neue
 
 **Fonts Snow Leopard**
-
-Source
-N/A lost the bookmark...
 
 * Calibri
 * Helvetica
