@@ -1,4 +1,6 @@
-#### A Collection of Fonts for OS X 10.7-10.9 Hosted by [MacTweaks](https://www.mactweaks.net)
+**Hosted by [MacTweaks](http://www.mactweaks.net)**
+
+## A Collection of Fonts for OS X 10.7-10.9 
 
 **Instructions**
 
