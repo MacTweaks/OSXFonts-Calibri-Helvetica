@@ -21,35 +21,35 @@ Source
 http://hossmd.tumblr.com/downloads
 
 Aurulent
-biko
-Brandon Grotesque
-Calibri
-Colaborate
-Delicious
-Diavlo
-Eurostile
-Gill Sans
-Miso
-Neutraface
-Sommet Rounded
-Vegur
+* biko
+* Brandon Grotesque
+* Calibri
+* Colaborate
+* Delicious
+* Diavlo
+* Eurostile
+* Gill Sans
+* Miso
+* Neutraface
+* Sommet Rounded
+* Vegur
 
 **Changefont**
 
 Source 
 https://changefont.neocities.org/
 
-Proxima Nova
-HP Prelude
-Helvetica Neue
+* Proxima Nova
+* HP Prelude
+* Helvetica Neue
 
 **Fonts Snow Leopard**
 
 Source
 N/A lost the bookmark...
 
-Calibri
-Helvetica
+* Calibri
+* Helvetica
 
 **10.7-10.9**
 
