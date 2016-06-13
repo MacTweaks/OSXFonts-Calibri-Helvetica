@@ -6,7 +6,10 @@ Fonts for OS X hosted by MacTweaks
 
 **invisible**
 
+Source
 http://www.angelfire.com/pr/pgpf/if.html
+
+Invisible
 
 **invisible enhanced**
 
@@ -14,16 +17,39 @@ a modififed version edited with font forge to include some more characters
 
 **tumblr**
 
+Source
 http://hossmd.tumblr.com/downloads
+
+Aurulent
+biko
+Brandon Grotesque
+Calibri
+Colaborate
+Delicious
+Diavlo
+Eurostile
+Gill Sans
+Miso
+Neutraface
+Sommet Rounded
+Vegur
 
 **Changefont**
 
+Source 
 https://changefont.neocities.org/
+
+Proxima Nova
+HP Prelude
+Helvetica Neue
 
 **Fonts Snow Leopard**
 
-unknown source. lost the bookmark...
+Source
+N/A lost the bookmark...
 
+Calibri
+Helvetica
 
 **10.7-10.9**
 
