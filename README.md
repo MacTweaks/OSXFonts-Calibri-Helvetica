@@ -9,7 +9,7 @@
 
 OS X 10.7 
 
-1. In /System/Library/ search for a folder called ProtectedFonts and delete the LucidaGrande.ttc
+1. In /System/Library/ search for a folder called ProtectedFonts and delete LucidaGrande.ttc
 
 2. In /System/Library/Fonts replace LucidaGrande.ttc with the custom font
 
