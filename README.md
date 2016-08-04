@@ -1,10 +1,13 @@
 **Hosted by [MacTweaks](http://www.mactweaks.net)**
 
-## A Collection of Fonts for OS X 10.7-10.9 
+**Fonts**
+
+* Calibri
+* Helvetica
 
 **Instructions**
 
-*Custom fonts must use the same format and file name as the default font*
+OS X 10.7 
 
 1. In /System/Library/ search for a folder called ProtectedFonts and delete the default font which should be LucidaGrande.ttc
 
@@ -14,51 +17,17 @@
 
 4. Log out to see changes
 
+
+OS X 10.8, 10.9
+
+1. Go to /System/Library/Fonts 
+
+2. Replace LucidaGrande.ttc 
+
+3. Log out to see changes
+
 --
 
 **Developer**
+N/A
 
-http://hossmd.tumblr.com/downloads
-
-http://www.angelfire.com/pr/pgpf/if.html
-
-https://changefont.neocities.org/
-
-Fonts Snow Leopard N/A
-
---
-
-**Invisible**
-
-* Invisible
-
-**Invisible Enhanced**
-
-* Invisible Enhanced
-
-**Tumblr**
-
-* Aurulent
-* biko
-* Brandon Grotesque
-* Calibri
-* Colaborate
-* Delicious
-* Diavlo
-* Eurostile
-* Gill Sans
-* Miso
-* Neutraface
-* Sommet Rounded
-* Vegur
-
-**Changefont**
-
-* Proxima Nova
-* HP Prelude
-* Helvetica Neue
-
-**Fonts Snow Leopard**
-
-* Calibri
-* Helvetica
